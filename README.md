@@ -11,9 +11,9 @@ Key Points of Focus:
 Compared to the conventional method of copying data from each terminal to the server for model training, Federated learning maximizes the utilization of data resources on each terminal while ensuring information security. By adopting this approach, it becomes possible to train the model with higher accuracy.
 
 Algorithms Used:
-
 LogisticRegression
 DNN (Deep Neural Network)
+
 Labels:
 malware
 benign
